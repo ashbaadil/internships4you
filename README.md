@@ -9,7 +9,7 @@ In order to run this web-app on your side, do the following:
 
 1.) Download the zip folder
 
-2.) SQL code for the initial database is included in the database folder, add it to your local host database or whichever database
+2.) SQL code for the initial database is included in sql.docx file, add it to your local host database or whichever database
 
 you have access to. 
 
